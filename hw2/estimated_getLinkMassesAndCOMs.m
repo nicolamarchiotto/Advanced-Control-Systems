@@ -1,0 +1,1 @@
+function [m,p]=estimated_getLinkMassesAndCOMs()%Function to simulate estimation of masses and COMs, real ones plus some%error[m,p]=getLinkMassesAndCOMs();m(1)=m(1)+0.8;m(2)=m(2)+0.5;m(3)=m(3)+0.3;end
